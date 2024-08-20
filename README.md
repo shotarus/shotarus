@@ -17,10 +17,14 @@ Hola soy Pedro Pabuena/shotarus
 Sobre Mi
 -------------------------
 💻 Soy un desarrollador web 
-tambien hago mantemiento correctivo y preventivo de sistemas operativo
-por otro lado asesoro y armo cpu de altos rendimiento actualizados
-tambien instalo sistema de cctv en casa finca y empresa
-tambien hago auditoria en cybersefuridad a paginas web, servidores,etc
+tambien hago mantemiento correctivo y
+preventivo de sistemas operativo,
+por otro lado asesoro y armo cpu
+de altos rendimiento actualizados,
+tambien instalo sistema de cctv
+en casa finca y empresa,
+tambien hago auditoria en cybersefuridad
+a paginas web, servidores,etc
 tambien monto estudios de gragaciones profesional
 
 ```
